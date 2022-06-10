@@ -1,0 +1,8 @@
+{
+"num_levers":10,
+"mean_rdist":0,
+"sd_rdist":1,
+"num_steps":1000,
+"num_runs":2000,
+"eps_vec":[0,0.01,0.1]
+}
