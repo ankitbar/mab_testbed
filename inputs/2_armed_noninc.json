@@ -1,5 +1,5 @@
 {
-"num_levers":10,
+"num_levers":2,
 "mean_rdist":0,
 "sd_rdist":1,
 "num_steps":1000,
